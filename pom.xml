@@ -67,6 +67,7 @@
         <version>2.2</version>
         <configuration>
 	<path>/durga</path>
+	<server>TomcatServer</server>
         </configuration>
       </plugin>
       </plugins>
